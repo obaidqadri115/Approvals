@@ -1,1 +1,2 @@
 File created by Developer 1
+This is a simple text file
