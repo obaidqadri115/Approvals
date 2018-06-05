@@ -1,3 +1,5 @@
 File created by Developer 1
 This is a simple text file
+
 1 + 1 = 2 // Developer 1
+2 + 2 = 4  // Developer 2
