@@ -4,4 +4,6 @@ This is a simple text file
 1 + 1 = 2 // Developer 1
 2 + 2 = 4  // Developer 2
 
+2 + 2 = 4  // Ashu 2 
+
 Above two lines are mathematical operations
